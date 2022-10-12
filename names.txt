@@ -10,8 +10,10 @@ ver
 ver
 ver
 ve
+<<<<<<< Updated upstream
 kunal
 kunal
+<<<<<<< Updated upstream
 erv
 rve
 rv
@@ -24,4 +26,12 @@ ver
 v
 erv
 er
+=======
+=======
+>>>>>>> Stashed changes
+we
+wev
+evwe
+vwe
+>>>>>>> Stashed changes
 v
